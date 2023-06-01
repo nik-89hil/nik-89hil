@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [https://nik-89hil.github.io/DIGICV-PORTFOLIO/](https://nik-89hil.github.io/DIGICV-PORTFOLIO/)
+- 👨‍💻 All of my projects are available at [https://nik-89hil.github.io/DIGICV-PORTFOLIO/](https://nikfolio.onrender.com/)
 
 - 📫 How to reach me **nikhilkumar19072002@gmail.com**
 
